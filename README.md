@@ -1,5 +1,4 @@
 # go-gc
-GC 垃圾回收笔记
 ![golang](https://www.runoob.com/wp-content/uploads/2015/06/go128.png)
 
 [图解 TCMalloc-内存管理](https://zhuanlan.zhihu.com/p/29216091)
